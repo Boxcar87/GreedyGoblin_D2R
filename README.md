@@ -1,9 +1,3 @@
-# lootFilter_Plus
-Partially translated clone of seonHee mod.
-Loot filter is different from seonHee. Simple and clean.
-
-Clone this repo directly into mods folder of D2R
-
 
 **Before launching D2R:**
 
@@ -13,4 +7,4 @@ Clone this repo directly into mods folder of D2R
 
   Additional Command Line Arguments>
 
-  Paste -mod lootFilter_Plus -txt
+  Paste -mod GreedyGoblinFilter -txt
