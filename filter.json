@@ -191,8 +191,8 @@
                 "helms"
             ],
             "equipmentItemCode": [
-                "qui",
                 "bsh",
+                "qui",
                 "lea",
                 "tow",
                 "brs",
@@ -249,7 +249,7 @@
         },
         {
             "name": "Sock/Eth Exceptional Armor Bases",
-            "enabled": true,
+            "enabled": false,
             "ruleType": "show",
             "filterEtherealSocketed": true,
             "equipmentQuality": [
@@ -293,11 +293,27 @@
                 "9wc",
                 "9lw",
                 "9pa",
+                "9vo",
                 "9kr",
                 "9br",
-                "9vo",
                 "9bw",
                 "9gw"
+            ]
+        },
+        {
+            "name": "Sock/Eth/Sup Elite Bases",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": true,
+            "equipmentRarity": [
+                "hiQuality"
+            ],
+            "equipmentQuality": [
+                "elite"
+            ],
+            "equipmentCategory": [
+                "armo",
+                "weap"
             ]
         },
         {
@@ -492,7 +508,7 @@
             "goldFilterValue": 5037
         },
         {
-            "name": "Runes Below Lum (excluding Hel)",
+            "name": "Runes Below Lum excluding Hel",
             "enabled": false,
             "ruleType": "hide",
             "filterEtherealSocketed": false,
@@ -513,12 +529,6 @@
                 "r10",
                 "r07"
             ]
-        },
-        {
-            "name": "////Bases",
-            "enabled": false,
-            "ruleType": "hide",
-            "filterEtherealSocketed": false
         },
         {
             "name": "All Inf/Non-Eth/Non-Sup/Non-Sock",
