@@ -1,0 +1,651 @@
+{
+    "name": "GreedyGoblin",
+    "rules": [
+        {
+            "name": "All Items",
+            "enabled": false,
+            "ruleType": "show",
+            "filterEtherealSocketed": true,
+            "equipmentRarity": [
+                "rare",
+                "lowQuality",
+                "magic",
+                "unique",
+                "set",
+                "hiQuality",
+                "normal"
+            ],
+            "equipmentQuality": [
+                "normal",
+                "exceptional",
+                "elite"
+            ],
+            "equipmentCategory": [
+                "acce",
+                "weap",
+                "armo"
+            ],
+            "itemCategory": [
+                "misc"
+            ],
+            "goldFilterValue": 1
+        },
+        {
+            "name": "Super Pots",
+            "enabled": false,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "itemCode": [
+                "hp5",
+                "mp5"
+            ]
+        },
+        {
+            "name": "Scrolls",
+            "enabled": false,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "itemCode": [
+                "isc",
+                "tsc"
+            ]
+        },
+        {
+            "name": "Flawless Gems",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "itemCode": [
+                "skl",
+                "gzv",
+                "glg",
+                "gly",
+                "glb",
+                "glr",
+                "glw"
+            ]
+        },
+        {
+            "name": "////Bases",
+            "enabled": false,
+            "ruleType": "show",
+            "filterEtherealSocketed": false
+        },
+        {
+            "name": "Claw/Wand/Dagger/Sword Bases",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": true,
+            "equipmentQuality": [
+                "normal",
+                "exceptional",
+                "elite"
+            ],
+            "equipmentItemCode": [
+                "bsd",
+                "7bw",
+                "9ar",
+                "7qr",
+                "9yw",
+                "9tw",
+                "9qr",
+                "gwn",
+                "btl",
+                "bwn",
+                "kri",
+                "7yw",
+                "7lw",
+                "7wn",
+                "skr",
+                "9lw",
+                "9kr",
+                "7ar",
+                "wnd",
+                "7tw",
+                "7gw",
+                "9bw",
+                "9gw",
+                "clw",
+                "crs",
+                "7kr"
+            ]
+        },
+        {
+            "name": "Necro Shield Bases",
+            "enabled": false,
+            "ruleType": "show",
+            "filterEtherealSocketed": true,
+            "equipmentRarity": [
+                "hiQuality",
+                "normal"
+            ],
+            "equipmentQuality": [
+                "normal",
+                "exceptional",
+                "elite"
+            ],
+            "equipmentCategory": [
+                "necro"
+            ]
+        },
+        {
+            "name": "Paladin Shield Bases",
+            "enabled": false,
+            "ruleType": "show",
+            "filterEtherealSocketed": true,
+            "equipmentRarity": [
+                "hiQuality"
+            ],
+            "equipmentQuality": [
+                "normal",
+                "exceptional",
+                "elite"
+            ],
+            "equipmentItemCode": [
+                "pac",
+                "pa7",
+                "pa5",
+                "pa6",
+                "paf",
+                "pab",
+                "pa2",
+                "pa1",
+                "paa"
+            ]
+        },
+        {
+            "name": "Warlock Shield Bases",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": true,
+            "equipmentRarity": [
+                "hiQuality",
+                "normal"
+            ],
+            "equipmentQuality": [
+                "normal",
+                "exceptional",
+                "elite"
+            ],
+            "equipmentCategory": [
+                "warlo"
+            ]
+        },
+        {
+            "name": "Sock/Eth Normal Armor Bases",
+            "enabled": false,
+            "ruleType": "show",
+            "filterEtherealSocketed": true,
+            "equipmentRarity": [
+                "hiQuality"
+            ],
+            "equipmentQuality": [
+                "normal"
+            ],
+            "equipmentCategory": [
+                "palad",
+                "warlo",
+                "necro",
+                "druid",
+                "barbh",
+                "helms"
+            ],
+            "equipmentItemCode": [
+                "qui",
+                "bsh",
+                "lea",
+                "tow",
+                "brs",
+                "ltp",
+                "stu",
+                "lrg",
+                "hla",
+                "kit"
+            ]
+        },
+        {
+            "name": "Sock/Eth Normal Wpn Bases",
+            "enabled": false,
+            "ruleType": "show",
+            "filterEtherealSocketed": true,
+            "equipmentRarity": [
+                "hiQuality"
+            ],
+            "equipmentQuality": [
+                "normal"
+            ],
+            "equipmentCategory": [
+                "sorce",
+                "amazo",
+                "poles",
+                "daggs",
+                "bows",
+                "maces",
+                "xbows",
+                "scept",
+                "stave",
+                "spear",
+                "wands",
+                "sword",
+                "axes",
+                "assas"
+            ]
+        },
+        {
+            "name": "Sock/Eth Exc Helms/Shield Bases",
+            "enabled": false,
+            "ruleType": "show",
+            "filterEtherealSocketed": true,
+            "equipmentRarity": [
+                "hiQuality"
+            ],
+            "equipmentQuality": [
+                "exceptional"
+            ],
+            "equipmentCategory": [
+                "shlds",
+                "helms"
+            ]
+        },
+        {
+            "name": "Sock/Eth Exceptional Armor Bases",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": true,
+            "equipmentQuality": [
+                "exceptional"
+            ],
+            "equipmentItemCode": [
+                "xtu",
+                "xtp",
+                "xla",
+                "xrs",
+                "xui",
+                "xea"
+            ]
+        },
+        {
+            "name": "Sock/Eth Exceptional Wpn Bases",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": true,
+            "equipmentQuality": [
+                "exceptional"
+            ],
+            "equipmentCategory": [
+                "bows",
+                "xbows",
+                "scept"
+            ],
+            "equipmentItemCode": [
+                "9ar",
+                "8bs",
+                "9st",
+                "8cs",
+                "9p9",
+                "9yw",
+                "9tw",
+                "9qr",
+                "9fl",
+                "8ws",
+                "9s8",
+                "9h9",
+                "9wc",
+                "9lw",
+                "9pa",
+                "9kr",
+                "9br",
+                "9vo",
+                "9bw",
+                "9gw"
+            ]
+        },
+        {
+            "name": "////Rare Items",
+            "enabled": false,
+            "ruleType": "show",
+            "filterEtherealSocketed": false
+        },
+        {
+            "name": "Rare Gloves/Boots",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "rare"
+            ],
+            "equipmentQuality": [
+                "normal",
+                "exceptional",
+                "elite"
+            ],
+            "equipmentCategory": [
+                "glove",
+                "boots"
+            ]
+        },
+        {
+            "name": "Rare Elite Polearms",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "rare"
+            ],
+            "equipmentQuality": [
+                "elite"
+            ],
+            "equipmentItemCode": [
+                "7wc",
+                "7pa",
+                "7vo",
+                "7s8",
+                "7h7"
+            ]
+        },
+        {
+            "name": "////Class Items",
+            "enabled": false,
+            "ruleType": "show",
+            "filterEtherealSocketed": false
+        },
+        {
+            "name": "All Classes Magic/Rare",
+            "enabled": false,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "rare",
+                "magic"
+            ],
+            "equipmentQuality": [
+                "normal",
+                "exceptional",
+                "elite"
+            ],
+            "equipmentCategory": [
+                "sorce",
+                "amazo",
+                "palad",
+                "daggs",
+                "warlo",
+                "necro",
+                "barbh",
+                "wands",
+                "druid",
+                "assas"
+            ]
+        },
+        {
+            "name": "Magic/Rare Zon/Sin Weapons",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "rare",
+                "magic"
+            ],
+            "equipmentQuality": [
+                "normal",
+                "exceptional",
+                "elite"
+            ],
+            "equipmentItemCode": [
+                "7lw",
+                "am5",
+                "7xf",
+                "7qr",
+                "ama",
+                "amf",
+                "7ar",
+                "7tw",
+                "7cs",
+                "7wb"
+            ]
+        },
+        {
+            "name": "Warlock/Necro Rare Shield",
+            "enabled": true,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "rare"
+            ],
+            "equipmentQuality": [
+                "normal",
+                "exceptional",
+                "elite"
+            ],
+            "equipmentCategory": [
+                "necro",
+                "warlo"
+            ]
+        },
+        {
+            "name": "----------Hide Options----------",
+            "enabled": false,
+            "ruleType": "hide",
+            "filterEtherealSocketed": false
+        },
+        {
+            "name": "Pots/Scrolls/Ammo/Non-Perf Gems",
+            "enabled": true,
+            "ruleType": "hide",
+            "filterEtherealSocketed": false,
+            "equipmentItemCode": [
+                "gps",
+                "opl",
+                "gpl",
+                "gpm",
+                "ops",
+                "opm"
+            ],
+            "itemCategory": [
+                "ammo"
+            ],
+            "itemCode": [
+                "hp2",
+                "gsw",
+                "hp5",
+                "glb",
+                "gfv",
+                "gfw",
+                "mp1",
+                "gfr",
+                "skf",
+                "glg",
+                "mp5",
+                "gfy",
+                "vps",
+                "isc",
+                "skl",
+                "gzv",
+                "gfb",
+                "gly",
+                "hp4",
+                "gsv",
+                "mp2",
+                "gcg",
+                "hp3",
+                "gfg",
+                "mp4",
+                "gsb",
+                "hp1",
+                "rvs",
+                "glw",
+                "gcb",
+                "gcv",
+                "gsg",
+                "mp3",
+                "tsc",
+                "wms",
+                "gcy",
+                "gsy",
+                "gsr",
+                "sku",
+                "gcw",
+                "skc",
+                "gcr",
+                "yps",
+                "glr"
+            ],
+            "goldFilterValue": 5037
+        },
+        {
+            "name": "Runes Below Lum (excluding Hel)",
+            "enabled": false,
+            "ruleType": "hide",
+            "filterEtherealSocketed": false,
+            "itemCode": [
+                "r02",
+                "r08",
+                "r13",
+                "r11",
+                "r12",
+                "r16",
+                "r05",
+                "r01",
+                "r09",
+                "r03",
+                "r06",
+                "r14",
+                "r04",
+                "r10",
+                "r07"
+            ]
+        },
+        {
+            "name": "////Bases",
+            "enabled": false,
+            "ruleType": "hide",
+            "filterEtherealSocketed": false
+        },
+        {
+            "name": "All Inf/Non-Eth/Non-Sup/Non-Sock",
+            "enabled": true,
+            "ruleType": "hide",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "lowQuality",
+                "normal"
+            ],
+            "equipmentQuality": [
+                "normal",
+                "exceptional",
+                "elite"
+            ],
+            "equipmentCategory": [
+                "weap",
+                "armo"
+            ]
+        },
+        {
+            "name": "Non-Elite Sock/Eth/Sup",
+            "enabled": true,
+            "ruleType": "hide",
+            "filterEtherealSocketed": true,
+            "equipmentRarity": [
+                "hiQuality"
+            ],
+            "equipmentQuality": [
+                "normal",
+                "exceptional"
+            ],
+            "equipmentCategory": [
+                "weap",
+                "armo"
+            ]
+        },
+        {
+            "name": "Non-Unique/Non-Zon Thrown Weapon",
+            "enabled": true,
+            "ruleType": "hide",
+            "filterEtherealSocketed": true,
+            "equipmentRarity": [
+                "rare",
+                "lowQuality",
+                "magic",
+                "hiQuality",
+                "normal"
+            ],
+            "equipmentCategory": [
+                "javel",
+                "throw"
+            ]
+        },
+        {
+            "name": "Magic Large Charms",
+            "enabled": true,
+            "ruleType": "hide",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "magic"
+            ],
+            "equipmentItemCode": [
+                "cm2"
+            ]
+        },
+        {
+            "name": "All Magic Weapon/Armor",
+            "enabled": true,
+            "ruleType": "hide",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "magic"
+            ],
+            "equipmentQuality": [
+                "normal",
+                "exceptional",
+                "elite"
+            ],
+            "equipmentCategory": [
+                "armo",
+                "weap"
+            ]
+        },
+        {
+            "name": "All Rares Except Belt/Circlet",
+            "enabled": true,
+            "ruleType": "hide",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "rare"
+            ],
+            "equipmentQuality": [
+                "normal",
+                "exceptional",
+                "elite"
+            ],
+            "equipmentCategory": [
+                "glove",
+                "palad",
+                "barbh",
+                "shlds",
+                "armor",
+                "necro",
+                "warlo",
+                "helms",
+                "weap",
+                "druid",
+                "boots"
+            ]
+        },
+        {
+            "name": "Normal Uniques and Sets",
+            "enabled": false,
+            "ruleType": "hide",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "set",
+                "unique"
+            ],
+            "equipmentQuality": [
+                "normal"
+            ],
+            "equipmentCategory": [
+                "weap",
+                "armo"
+            ]
+        }
+    ]
+}
