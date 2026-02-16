@@ -9,9 +9,9 @@
             "equipmentRarity": [
                 "rare",
                 "lowQuality",
-                "magic",
-                "unique",
                 "set",
+                "unique",
+                "magic",
                 "hiQuality",
                 "normal"
             ],
@@ -22,8 +22,8 @@
             ],
             "equipmentCategory": [
                 "acce",
-                "weap",
-                "armo"
+                "armo",
+                "weap"
             ],
             "itemCategory": [
                 "misc"
@@ -36,8 +36,8 @@
             "ruleType": "show",
             "filterEtherealSocketed": false,
             "itemCode": [
-                "hp5",
-                "mp5"
+                "mp5",
+                "hp5"
             ]
         },
         {
@@ -56,13 +56,13 @@
             "ruleType": "show",
             "filterEtherealSocketed": false,
             "itemCode": [
-                "skl",
                 "gzv",
+                "skl",
                 "glg",
-                "gly",
                 "glb",
-                "glr",
-                "glw"
+                "gly",
+                "glw",
+                "glr"
             ]
         },
         {
@@ -82,15 +82,15 @@
                 "elite"
             ],
             "equipmentItemCode": [
-                "bsd",
                 "7bw",
+                "bsd",
                 "9ar",
                 "7qr",
                 "9yw",
                 "9tw",
-                "9qr",
-                "gwn",
                 "btl",
+                "gwn",
+                "9qr",
                 "bwn",
                 "kri",
                 "7yw",
@@ -99,15 +99,34 @@
                 "skr",
                 "9lw",
                 "9kr",
-                "7ar",
                 "wnd",
-                "7tw",
+                "7ar",
                 "7gw",
+                "7tw",
                 "9bw",
                 "9gw",
                 "clw",
                 "crs",
                 "7kr"
+            ]
+        },
+        {
+            "name": "Barb/Druid Helmets",
+            "enabled": false,
+            "ruleType": "show",
+            "filterEtherealSocketed": true,
+            "equipmentRarity": [
+                "hiQuality",
+                "normal"
+            ],
+            "equipmentQuality": [
+                "normal",
+                "exceptional",
+                "elite"
+            ],
+            "equipmentCategory": [
+                "barbh",
+                "druid"
             ]
         },
         {
@@ -182,23 +201,18 @@
             "equipmentQuality": [
                 "normal"
             ],
-            "equipmentCategory": [
-                "palad",
-                "warlo",
-                "necro",
-                "druid",
-                "barbh",
-                "helms"
-            ],
             "equipmentItemCode": [
-                "bsh",
-                "qui",
-                "lea",
                 "tow",
-                "brs",
                 "ltp",
-                "stu",
+                "ghm",
                 "lrg",
+                "crn",
+                "msk",
+                "qui",
+                "bsh",
+                "lea",
+                "brs",
+                "stu",
                 "hla",
                 "kit"
             ]
@@ -214,21 +228,59 @@
             "equipmentQuality": [
                 "normal"
             ],
-            "equipmentCategory": [
-                "sorce",
-                "amazo",
-                "poles",
-                "daggs",
-                "bows",
-                "maces",
-                "xbows",
-                "scept",
-                "stave",
-                "spear",
-                "wands",
-                "sword",
-                "axes",
-                "assas"
+            "equipmentItemCode": [
+                "scy",
+                "gis",
+                "gix",
+                "brn",
+                "wsp",
+                "wsc",
+                "lst",
+                "clm",
+                "spt",
+                "btl",
+                "gwn",
+                "spr",
+                "hal",
+                "bwn",
+                "bst",
+                "mxb",
+                "wsd",
+                "kri",
+                "lbw",
+                "skr",
+                "swb",
+                "sst",
+                "sbr",
+                "bsw",
+                "axe",
+                "lbb",
+                "cbw",
+                "bsd",
+                "ktr",
+                "gsc",
+                "cst",
+                "sbb",
+                "gax",
+                "hxb",
+                "pax",
+                "pik",
+                "hbw",
+                "flc",
+                "2hs",
+                "vou",
+                "bax",
+                "2ax",
+                "gsd",
+                "whm",
+                "fla",
+                "rxb",
+                "flb",
+                "btx",
+                "clw",
+                "crs",
+                "wax",
+                "lwb"
             ]
         },
         {
@@ -242,9 +294,19 @@
             "equipmentQuality": [
                 "exceptional"
             ],
-            "equipmentCategory": [
-                "shlds",
-                "helms"
+            "equipmentItemCode": [
+                "xpk",
+                "xkp",
+                "xit",
+                "xap",
+                "xrg",
+                "xh9",
+                "xsh",
+                "xml",
+                "xrn",
+                "xhm",
+                "xsk",
+                "xow"
             ]
         },
         {
@@ -258,34 +320,36 @@
             "equipmentItemCode": [
                 "xtu",
                 "xtp",
-                "xla",
                 "xrs",
+                "xla",
                 "xui",
                 "xea"
             ]
         },
         {
             "name": "Sock/Eth Exceptional Wpn Bases",
-            "enabled": true,
+            "enabled": false,
             "ruleType": "show",
             "filterEtherealSocketed": true,
             "equipmentQuality": [
                 "exceptional"
             ],
-            "equipmentCategory": [
-                "bows",
-                "xbows",
-                "scept"
-            ],
             "equipmentItemCode": [
+                "8hb",
                 "9ar",
+                "8mx",
                 "8bs",
-                "9st",
+                "9qs",
                 "8cs",
+                "9st",
                 "9p9",
                 "9yw",
                 "9tw",
                 "9qr",
+                "8s8",
+                "8sw",
+                "8lw",
+                "8hx",
                 "9fl",
                 "8ws",
                 "9s8",
@@ -293,11 +357,16 @@
                 "9wc",
                 "9lw",
                 "9pa",
+                "8rx",
+                "8lb",
+                "9br",
                 "9vo",
                 "9kr",
-                "9br",
+                "9ws",
                 "9bw",
-                "9gw"
+                "9gw",
+                "8sb",
+                "8l8"
             ]
         },
         {
@@ -312,8 +381,91 @@
                 "elite"
             ],
             "equipmentCategory": [
-                "armo",
-                "weap"
+                "circl"
+            ],
+            "equipmentItemCode": [
+                "ult",
+                "6lb",
+                "6bs",
+                "7br",
+                "7bs",
+                "6lw",
+                "7fl",
+                "7pa",
+                "6rx",
+                "6sw",
+                "amc",
+                "6mx",
+                "amb",
+                "6s7",
+                "7gw",
+                "7cm",
+                "7ga",
+                "6hb",
+                "uui",
+                "uuc",
+                "7wh",
+                "7ma",
+                "7qr",
+                "7gs",
+                "7m7",
+                "ame",
+                "uml",
+                "uar",
+                "urg",
+                "6hx",
+                "7lw",
+                "uit",
+                "7tw",
+                "7ws",
+                "utu",
+                "6ws",
+                "uea",
+                "7b7",
+                "6sb",
+                "ush",
+                "7qs",
+                "7bw",
+                "7bt",
+                "7wc",
+                "7gi",
+                "72h",
+                "uow",
+                "7s8",
+                "7wd",
+                "uth",
+                "urn",
+                "7wa",
+                "uhm",
+                "7sr",
+                "6l7",
+                "7yw",
+                "usk",
+                "7ba",
+                "7gd",
+                "6ss",
+                "7ar",
+                "7p7",
+                "urs",
+                "uld",
+                "72a",
+                "utp",
+                "7kr",
+                "7st",
+                "ula",
+                "6cs",
+                "upk",
+                "ucl",
+                "amd",
+                "uhn",
+                "7fb",
+                "7mt",
+                "ung",
+                "uul",
+                "7cr",
+                "7vo",
+                "7gm",
+                "7h7"
             ]
         },
         {
@@ -335,13 +487,39 @@
                 "exceptional",
                 "elite"
             ],
-            "equipmentCategory": [
-                "glove",
-                "boots"
+            "equipmentItemCode": [
+                "xlb",
+                "vgl",
+                "lgl",
+                "xhg",
+                "xhb",
+                "uvg",
+                "xmg",
+                "ulg",
+                "mbt",
+                "hbt",
+                "mgl",
+                "vbt",
+                "tgl",
+                "ulb",
+                "xtg",
+                "xvb",
+                "umg",
+                "xvg",
+                "utg",
+                "xmb",
+                "hgl",
+                "uvb",
+                "tbt",
+                "utb",
+                "xlg",
+                "lbt",
+                "xtb",
+                "umb"
             ]
         },
         {
-            "name": "Rare Elite Polearms",
+            "name": "Rare Circlets/Belts",
             "enabled": true,
             "ruleType": "show",
             "filterEtherealSocketed": false,
@@ -351,12 +529,14 @@
             "equipmentQuality": [
                 "elite"
             ],
+            "equipmentCategory": [
+                "circl"
+            ],
             "equipmentItemCode": [
-                "7wc",
-                "7pa",
-                "7vo",
-                "7s8",
-                "7h7"
+                "utc",
+                "ulc",
+                "uvc",
+                "umc"
             ]
         },
         {
@@ -380,16 +560,153 @@
                 "elite"
             ],
             "equipmentCategory": [
-                "sorce",
-                "amazo",
-                "palad",
-                "daggs",
-                "warlo",
-                "necro",
+                "warlo"
+            ],
+            "equipmentItemCode": [
+                "dr8",
+                "drd",
+                "pa7",
+                "am5",
+                "9dg",
+                "ba7",
+                "obb",
+                "ba4",
+                "pa9",
+                "9wn",
+                "gwn",
+                "btl",
+                "pab",
+                "7wb",
+                "bld",
+                "am8",
+                "amc",
+                "kri",
+                "skr",
+                "dr7",
+                "ama",
+                "nea",
+                "ne2",
+                "pa4",
+                "amb",
+                "7gw",
+                "7dg",
+                "9gw",
+                "bad",
+                "am4",
+                "paa",
+                "ob7",
+                "dr3",
+                "ba5",
+                "drf",
+                "9bl",
+                "dr5",
+                "7qr",
+                "ame",
+                "nef",
+                "9yw",
+                "ob4",
+                "pa6",
+                "9qr",
+                "pa2",
+                "obc",
+                "7di",
+                "7lw",
+                "ne7",
+                "ne5",
+                "axf",
+                "neb",
+                "ces",
+                "pa5",
+                "7tw",
+                "am2",
+                "7cs",
+                "9cs",
+                "am7",
+                "clw",
+                "am9",
+                "ba2",
+                "7bw",
+                "wrb",
+                "obe",
+                "ne6",
+                "7xf",
+                "7bl",
+                "ba9",
+                "obd",
+                "dr2",
+                "9xf",
+                "dr6",
+                "dir",
+                "dre",
+                "oba",
+                "baa",
+                "9tw",
+                "dr9",
+                "ne9",
+                "ba8",
+                "bwn",
+                "9wb",
+                "pac",
+                "dra",
+                "7yw",
+                "9lw",
+                "bac",
+                "amf",
+                "ne8",
+                "ob2",
+                "ob3",
+                "7ar",
+                "baf",
+                "9bw",
+                "ob6",
+                "ned",
+                "pae",
+                "ob8",
+                "obf",
+                "nee",
+                "ba3",
+                "ob5",
+                "7kr",
+                "pa3",
+                "9ar",
+                "ba6",
+                "am6",
+                "pa8",
+                "bae",
+                "amd",
+                "ne3",
+                "pad",
+                "ne4",
+                "7wn",
+                "drb",
+                "ywn",
+                "9di",
+                "9kr",
+                "neg",
+                "ob9",
+                "dr4",
+                "bab",
+                "paf",
+                "drc",
+                "am3"
+            ]
+        },
+        {
+            "name": "Rare Barb/Druid Helmets",
+            "enabled": false,
+            "ruleType": "show",
+            "filterEtherealSocketed": false,
+            "equipmentRarity": [
+                "rare"
+            ],
+            "equipmentQuality": [
+                "normal",
+                "exceptional",
+                "elite"
+            ],
+            "equipmentCategory": [
                 "barbh",
-                "wands",
-                "druid",
-                "assas"
+                "druid"
             ]
         },
         {
@@ -433,8 +750,8 @@
                 "elite"
             ],
             "equipmentCategory": [
-                "necro",
-                "warlo"
+                "warlo",
+                "necro"
             ]
         },
         {
@@ -453,8 +770,8 @@
                 "opl",
                 "gpl",
                 "gpm",
-                "ops",
-                "opm"
+                "opm",
+                "ops"
             ],
             "itemCategory": [
                 "ammo"
@@ -470,12 +787,12 @@
                 "gfr",
                 "skf",
                 "glg",
-                "mp5",
                 "gfy",
+                "mp5",
                 "vps",
                 "isc",
-                "skl",
                 "gzv",
+                "skl",
                 "gfb",
                 "gly",
                 "hp4",
@@ -493,11 +810,11 @@
                 "gcv",
                 "gsg",
                 "mp3",
-                "tsc",
                 "wms",
-                "gcy",
-                "gsy",
+                "tsc",
                 "gsr",
+                "gsy",
+                "gcy",
                 "sku",
                 "gcw",
                 "skc",
@@ -521,11 +838,11 @@
                 "r16",
                 "r05",
                 "r01",
-                "r09",
                 "r03",
+                "r09",
                 "r06",
-                "r14",
                 "r04",
+                "r14",
                 "r10",
                 "r07"
             ]
@@ -545,25 +862,8 @@
                 "elite"
             ],
             "equipmentCategory": [
-                "weap",
-                "armo"
-            ]
-        },
-        {
-            "name": "Non-Elite Sock/Eth/Sup",
-            "enabled": true,
-            "ruleType": "hide",
-            "filterEtherealSocketed": true,
-            "equipmentRarity": [
-                "hiQuality"
-            ],
-            "equipmentQuality": [
-                "normal",
-                "exceptional"
-            ],
-            "equipmentCategory": [
-                "weap",
-                "armo"
+                "armo",
+                "weap"
             ]
         },
         {
@@ -579,8 +879,26 @@
                 "normal"
             ],
             "equipmentCategory": [
-                "javel",
-                "throw"
+                "javel"
+            ],
+            "equipmentItemCode": [
+                "7b8",
+                "gps",
+                "tkf",
+                "opm",
+                "ops",
+                "tax",
+                "7ta",
+                "7bk",
+                "gpl",
+                "9ta",
+                "9bk",
+                "9tk",
+                "bkf",
+                "bal",
+                "opl",
+                "9b8",
+                "gpm"
             ]
         },
         {
@@ -609,12 +927,12 @@
                 "elite"
             ],
             "equipmentCategory": [
-                "armo",
-                "weap"
+                "weap",
+                "armo"
             ]
         },
         {
-            "name": "All Rares Except Belt/Circlet",
+            "name": "All Rares",
             "enabled": true,
             "ruleType": "hide",
             "filterEtherealSocketed": false,
@@ -625,32 +943,6 @@
                 "normal",
                 "exceptional",
                 "elite"
-            ],
-            "equipmentCategory": [
-                "glove",
-                "palad",
-                "barbh",
-                "shlds",
-                "armor",
-                "necro",
-                "warlo",
-                "helms",
-                "weap",
-                "druid",
-                "boots"
-            ]
-        },
-        {
-            "name": "Normal Uniques and Sets",
-            "enabled": false,
-            "ruleType": "hide",
-            "filterEtherealSocketed": false,
-            "equipmentRarity": [
-                "set",
-                "unique"
-            ],
-            "equipmentQuality": [
-                "normal"
             ],
             "equipmentCategory": [
                 "weap",
