@@ -9,9 +9,9 @@
             "equipmentRarity": [
                 "rare",
                 "lowQuality",
-                "magic",
-                "unique",
                 "set",
+                "unique",
+                "magic",
                 "hiQuality",
                 "normal"
             ],
@@ -22,8 +22,8 @@
             ],
             "equipmentCategory": [
                 "acce",
-                "weap",
-                "armo"
+                "armo",
+                "weap"
             ],
             "itemCategory": [
                 "misc"
@@ -36,8 +36,8 @@
             "ruleType": "show",
             "filterEtherealSocketed": false,
             "itemCode": [
-                "hp5",
-                "mp5"
+                "mp5",
+                "hp5"
             ]
         },
         {
@@ -56,13 +56,13 @@
             "ruleType": "show",
             "filterEtherealSocketed": false,
             "itemCode": [
-                "skl",
                 "gzv",
+                "skl",
                 "glg",
-                "gly",
                 "glb",
-                "glr",
-                "glw"
+                "gly",
+                "glw",
+                "glr"
             ]
         },
         {
@@ -86,16 +86,16 @@
                 "elite"
             ],
             "equipmentItemCode": [
+                "7lw",
                 "9ar",
                 "7qr",
-                "9tw",
-                "9qr",
-                "btl",
-                "7lw",
                 "9lw",
                 "skr",
                 "7ar",
                 "7tw",
+                "9tw",
+                "9qr",
+                "btl",
                 "clw"
             ]
         },
@@ -112,16 +112,8 @@
                 "exceptional",
                 "elite"
             ],
-            "equipmentItemCode": [
-                "pac",
-                "pa7",
-                "pa5",
-                "pa6",
-                "paf",
-                "pab",
-                "pa2",
-                "pa1",
-                "paa"
+            "equipmentCategory": [
+                "palad"
             ]
         },
         {
@@ -139,8 +131,8 @@
                 "elite"
             ],
             "equipmentCategory": [
-                "druid",
-                "barbh"
+                "barbh",
+                "druid"
             ]
         },
         {
@@ -218,8 +210,8 @@
                 "lrg",
                 "hla",
                 "kit",
-                "crn",
-                "msk"
+                "msk",
+                "crn"
             ]
         },
         {
@@ -243,14 +235,14 @@
                 "lst",
                 "clm",
                 "spt",
-                "spr",
-                "gwn",
                 "btl",
+                "gwn",
+                "spr",
                 "hal",
-                "bst",
                 "bwn",
-                "wsd",
+                "bst",
                 "mxb",
+                "wsd",
                 "kri",
                 "lbw",
                 "skr",
@@ -267,15 +259,15 @@
                 "cst",
                 "sbb",
                 "gax",
-                "pik",
-                "pax",
                 "hxb",
+                "pax",
+                "pik",
                 "hbw",
-                "2hs",
                 "flc",
-                "2ax",
-                "bax",
+                "2hs",
                 "vou",
+                "bax",
+                "2ax",
                 "gsd",
                 "whm",
                 "fla",
@@ -283,9 +275,9 @@
                 "flb",
                 "btx",
                 "clw",
-                "lwb",
+                "crs",
                 "wax",
-                "crs"
+                "lwb"
             ]
         },
         {
@@ -299,19 +291,9 @@
             "equipmentQuality": [
                 "exceptional"
             ],
-            "equipmentItemCode": [
-                "xpk",
-                "xkp",
-                "xit",
-                "xap",
-                "xrg",
-                "xh9",
-                "xsh",
-                "xml",
-                "xrn",
-                "xhm",
-                "xsk",
-                "xow"
+            "equipmentCategory": [
+                "shlds",
+                "helms"
             ]
         },
         {
@@ -322,13 +304,8 @@
             "equipmentQuality": [
                 "exceptional"
             ],
-            "equipmentItemCode": [
-                "xtu",
-                "xtp",
-                "xla",
-                "xrs",
-                "xui",
-                "xea"
+            "equipmentCategory": [
+                "armor"
             ]
         },
         {
@@ -339,39 +316,29 @@
             "equipmentQuality": [
                 "exceptional"
             ],
+            "equipmentCategory": [
+                "bows",
+                "xbows",
+                "scept"
+            ],
             "equipmentItemCode": [
-                "8hb",
-                "8mx",
-                "9ar",
-                "9qs",
-                "8bs",
                 "9st",
                 "8cs",
+                "8ws",
+                "9pa",
+                "9vo",
+                "9bw",
+                "9sr",
+                "9gw",
+                "8bs",
                 "9p9",
                 "9yw",
-                "9tw",
-                "9qr",
-                "8s8",
-                "8sw",
-                "8lw",
-                "8hx",
                 "9h9",
                 "9s8",
                 "9fl",
-                "8ws",
                 "9wc",
-                "9pa",
-                "9lw",
-                "8lb",
-                "8rx",
                 "9kr",
-                "9vo",
-                "9br",
-                "9ws",
-                "9bw",
-                "8sb",
-                "9gw",
-                "8l8"
+                "9br"
             ]
         },
         {
@@ -386,89 +353,49 @@
                 "elite"
             ],
             "equipmentCategory": [
-                "circl"
+                "bows",
+                "wands",
+                "armor",
+                "shlds",
+                "circl",
+                "xbows",
+                "scept"
             ],
             "equipmentItemCode": [
                 "6bs",
-                "6lb",
-                "ult",
                 "7br",
                 "7bs",
-                "6lw",
-                "7fl",
                 "7pa",
-                "6rx",
-                "6sw",
                 "amc",
-                "6mx",
                 "amb",
-                "6s7",
-                "7gw",
                 "7cm",
-                "6hb",
                 "7ga",
-                "uui",
-                "uuc",
-                "7wh",
-                "7qr",
-                "7ma",
                 "7gs",
                 "ame",
-                "7m7",
-                "uml",
-                "uar",
-                "urg",
-                "7lw",
-                "6hx",
-                "uit",
-                "7tw",
-                "7ws",
-                "utu",
                 "6ws",
-                "uea",
                 "7b7",
-                "6sb",
-                "ush",
-                "7qs",
-                "7bw",
                 "7bt",
                 "7wc",
                 "7gi",
                 "72h",
-                "uow",
                 "7s8",
                 "7wd",
-                "uth",
                 "urn",
                 "7wa",
                 "uhm",
                 "7sr",
-                "6l7",
-                "7yw",
                 "usk",
                 "7ba",
                 "7gd",
                 "6ss",
-                "7ar",
                 "7p7",
-                "urs",
-                "uld",
                 "72a",
-                "utp",
-                "7st",
                 "7kr",
-                "ula",
+                "7st",
                 "6cs",
-                "upk",
-                "ucl",
                 "amd",
-                "uhn",
                 "7fb",
-                "ung",
-                "7mt",
-                "uul",
                 "7cr",
-                "7gm",
                 "7vo",
                 "7h7"
             ]
@@ -492,35 +419,9 @@
                 "exceptional",
                 "elite"
             ],
-            "equipmentItemCode": [
-                "xlb",
-                "vgl",
-                "lgl",
-                "xhb",
-                "xhg",
-                "uvg",
-                "mbt",
-                "ulg",
-                "xmg",
-                "hbt",
-                "mgl",
-                "vbt",
-                "tgl",
-                "ulb",
-                "xtg",
-                "xvb",
-                "xvg",
-                "umg",
-                "xmb",
-                "utg",
-                "uvb",
-                "hgl",
-                "utb",
-                "tbt",
-                "xlg",
-                "lbt",
-                "xtb",
-                "umb"
+            "equipmentCategory": [
+                "glove",
+                "boots"
             ]
         },
         {
@@ -535,13 +436,8 @@
                 "elite"
             ],
             "equipmentCategory": [
-                "circl"
-            ],
-            "equipmentItemCode": [
-                "utc",
-                "ulc",
-                "umc",
-                "uvc"
+                "circl",
+                "belts"
             ]
         },
         {
@@ -568,13 +464,13 @@
                 "warlo"
             ],
             "equipmentItemCode": [
-                "pa7",
-                "drd",
                 "dr8",
+                "drd",
+                "pa7",
                 "am5",
                 "9dg",
-                "obb",
                 "ba7",
+                "obb",
                 "ba4",
                 "pa9",
                 "9wn",
@@ -587,19 +483,19 @@
                 "amc",
                 "kri",
                 "skr",
-                "ama",
                 "dr7",
-                "amb",
-                "pa4",
-                "ne2",
+                "ama",
                 "nea",
+                "ne2",
+                "pa4",
+                "amb",
                 "7gw",
-                "9gw",
                 "7dg",
-                "am4",
+                "9gw",
                 "bad",
-                "ob7",
+                "am4",
                 "paa",
+                "ob7",
                 "dr3",
                 "ba5",
                 "drf",
@@ -636,59 +532,59 @@
                 "ne6",
                 "7xf",
                 "7bl",
-                "obd",
                 "ba9",
-                "9xf",
+                "obd",
                 "dr2",
-                "dir",
+                "9xf",
                 "dr6",
-                "oba",
+                "dir",
                 "dre",
-                "9tw",
+                "oba",
                 "baa",
+                "9tw",
                 "dr9",
-                "ba8",
                 "ne9",
-                "9wb",
+                "ba8",
                 "bwn",
+                "9wb",
                 "pac",
-                "7yw",
                 "dra",
+                "7yw",
                 "9lw",
-                "amf",
                 "bac",
-                "ob2",
+                "amf",
                 "ne8",
+                "ob2",
                 "ob3",
                 "7ar",
                 "baf",
-                "ob6",
                 "9bw",
-                "obf",
-                "ob8",
-                "pae",
+                "ob6",
                 "ned",
+                "pae",
+                "ob8",
+                "obf",
                 "nee",
-                "ob5",
                 "ba3",
+                "ob5",
                 "7kr",
-                "9ar",
                 "pa3",
+                "9ar",
                 "ba6",
                 "am6",
-                "amd",
-                "bae",
                 "pa8",
-                "pad",
+                "bae",
+                "amd",
                 "ne3",
-                "7wn",
+                "pad",
                 "ne4",
+                "7wn",
                 "drb",
                 "ywn",
-                "9kr",
                 "9di",
-                "ob9",
+                "9kr",
                 "neg",
+                "ob9",
                 "dr4",
                 "bab",
                 "paf",
@@ -710,12 +606,12 @@
                 "elite"
             ],
             "equipmentCategory": [
-                "druid",
-                "barbh"
+                "barbh",
+                "druid"
             ]
         },
         {
-            "name": "Magic/Rare Zon/Sin Weapons",
+            "name": "Magic/Rare Javazon/Sin Weapons",
             "enabled": true,
             "ruleType": "show",
             "filterEtherealSocketed": false,
@@ -755,8 +651,43 @@
                 "elite"
             ],
             "equipmentCategory": [
-                "necro",
-                "warlo"
+                "warlo",
+                "necro"
+            ]
+        },
+        {
+            "name": "Non-Unique/Non-Zon Thrown Weapon",
+            "enabled": false,
+            "ruleType": "show",
+            "filterEtherealSocketed": true,
+            "equipmentRarity": [
+                "rare",
+                "lowQuality",
+                "magic",
+                "hiQuality",
+                "normal"
+            ],
+            "equipmentQuality": [
+                "normal",
+                "exceptional",
+                "elite"
+            ],
+            "equipmentCategory": [
+                "javel"
+            ],
+            "equipmentItemCode": [
+                "7b8",
+                "tkf",
+                "tax",
+                "7ta",
+                "7bk",
+                "9ta",
+                "9bk",
+                "9tk",
+                "bkf",
+                "bal",
+                "7tk",
+                "9b8"
             ]
         },
         {
@@ -764,6 +695,29 @@
             "enabled": false,
             "ruleType": "hide",
             "filterEtherealSocketed": false
+        },
+        {
+            "name": "Runes Below Lum excluding Hel",
+            "enabled": false,
+            "ruleType": "hide",
+            "filterEtherealSocketed": false,
+            "itemCode": [
+                "r02",
+                "r08",
+                "r13",
+                "r11",
+                "r12",
+                "r16",
+                "r05",
+                "r01",
+                "r03",
+                "r09",
+                "r06",
+                "r04",
+                "r14",
+                "r10",
+                "r07"
+            ]
         },
         {
             "name": "Pots/Scrolls/Ammo/Non-Perf Gems",
@@ -775,8 +729,8 @@
                 "opl",
                 "gpl",
                 "gpm",
-                "ops",
-                "opm"
+                "opm",
+                "ops"
             ],
             "itemCategory": [
                 "ammo"
@@ -792,12 +746,12 @@
                 "gfr",
                 "skf",
                 "glg",
-                "mp5",
                 "gfy",
+                "mp5",
                 "vps",
                 "isc",
-                "skl",
                 "gzv",
+                "skl",
                 "gfb",
                 "gly",
                 "hp4",
@@ -815,11 +769,11 @@
                 "gcv",
                 "gsg",
                 "mp3",
-                "tsc",
                 "wms",
-                "gcy",
-                "gsy",
+                "tsc",
                 "gsr",
+                "gsy",
+                "gcy",
                 "sku",
                 "gcw",
                 "skc",
@@ -828,64 +782,6 @@
                 "glr"
             ],
             "goldFilterValue": 5037
-        },
-        {
-            "name": "Runes Below Lum excluding Hel",
-            "enabled": false,
-            "ruleType": "hide",
-            "filterEtherealSocketed": false,
-            "itemCode": [
-                "r02",
-                "r08",
-                "r13",
-                "r11",
-                "r12",
-                "r16",
-                "r05",
-                "r01",
-                "r09",
-                "r03",
-                "r06",
-                "r14",
-                "r04",
-                "r10",
-                "r07"
-            ]
-        },
-        {
-            "name": "Non-Unique/Non-Zon Thrown Weapon",
-            "enabled": true,
-            "ruleType": "hide",
-            "filterEtherealSocketed": true,
-            "equipmentRarity": [
-                "rare",
-                "lowQuality",
-                "magic",
-                "hiQuality",
-                "normal"
-            ],
-            "equipmentCategory": [
-                "javel"
-            ],
-            "equipmentItemCode": [
-                "7b8",
-                "gps",
-                "tkf",
-                "ops",
-                "opm",
-                "7ta",
-                "tax",
-                "7bk",
-                "gpl",
-                "9ta",
-                "9bk",
-                "9tk",
-                "bkf",
-                "bal",
-                "opl",
-                "9b8",
-                "gpm"
-            ]
         },
         {
             "name": "Magic Large Charms",
@@ -915,8 +811,36 @@
                 "elite"
             ],
             "equipmentCategory": [
-                "weap",
-                "armo"
+                "bows",
+                "maces",
+                "stave",
+                "wands",
+                "armo",
+                "axes",
+                "sorce",
+                "amazo",
+                "poles",
+                "daggs",
+                "xbows",
+                "scept",
+                "spear",
+                "javel",
+                "sword",
+                "assas"
+            ],
+            "equipmentItemCode": [
+                "7b8",
+                "tkf",
+                "tax",
+                "7ta",
+                "7bk",
+                "9ta",
+                "9bk",
+                "9tk",
+                "bal",
+                "bkf",
+                "7tk",
+                "9b8"
             ]
         },
         {
@@ -933,8 +857,8 @@
                 "elite"
             ],
             "equipmentCategory": [
-                "armo",
-                "weap"
+                "weap",
+                "armo"
             ]
         },
         {
@@ -951,8 +875,8 @@
                 "elite"
             ],
             "equipmentCategory": [
-                "armo",
-                "weap"
+                "weap",
+                "armo"
             ]
         }
     ]
