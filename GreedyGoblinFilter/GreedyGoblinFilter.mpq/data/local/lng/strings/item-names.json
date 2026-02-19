@@ -5119,7 +5119,7 @@
   {
     "id": 2236,
     "Key": "gcv",
-    "enUS": "Chipped Amethyst",
+    "enUS": "Chipped ÿc;O",
     "zhTW": "碎裂紫寶石",
     "deDE": "lädierter Amethyst",
     "esES": "Amatista fragmentada",
@@ -5136,7 +5136,7 @@
   {
     "id": 2237,
     "Key": "gfv",
-    "enUS": "Flawed Amethyst",
+    "enUS": "Flawed ÿc;O",
     "zhTW": "瑕疵紫寶石",
     "deDE": "fehlerhafter Amethyst",
     "esES": "Amatista estropeada",
@@ -5153,7 +5153,7 @@
   {
     "id": 2238,
     "Key": "gsv",
-    "enUS": "Amethyst",
+    "enUS": "Gem ÿc;O",
     "zhTW": "紫寶石",
     "deDE": "Amethyst",
     "esES": "Amatista",
@@ -5170,7 +5170,7 @@
   {
     "id": 2239,
     "Key": "gzv",
-    "enUS": "Flawless Amethyst",
+    "enUS": "Flawless ÿc;O",
     "zhTW": "無瑕紫寶石",
     "deDE": "makelloser Amethyst",
     "esES": "Amatista sin defectos",
@@ -5187,7 +5187,7 @@
   {
     "id": 2240,
     "Key": "gpv",
-    "enUS": "Perfect Amethyst",
+    "enUS": "Perfect ÿc;O",
     "zhTW": "完美紫寶石",
     "deDE": "perfekter Amethyst",
     "esES": "Amatista perfecta",
@@ -5204,7 +5204,7 @@
   {
     "id": 2241,
     "Key": "gcy",
-    "enUS": "Chipped Topaz",
+    "enUS": "Chipped ÿc9O",
     "zhTW": "碎裂黃寶石",
     "deDE": "lädierter Topas",
     "esES": "Topacio fragmentado",
@@ -5221,7 +5221,7 @@
   {
     "id": 2242,
     "Key": "gfy",
-    "enUS": "Flawed Topaz",
+    "enUS": "Flawed ÿc9O",
     "zhTW": "瑕疵黃寶石",
     "deDE": "fehlerhafter Topas",
     "esES": "Topacio estropeado",
@@ -5238,7 +5238,7 @@
   {
     "id": 2243,
     "Key": "gsy",
-    "enUS": "Topaz",
+    "enUS": "Gem ÿc9O",
     "zhTW": "黃寶石",
     "deDE": "Topas",
     "esES": "Topacio",
@@ -5255,7 +5255,7 @@
   {
     "id": 2244,
     "Key": "gly",
-    "enUS": "Flawless Topaz",
+    "enUS": "Flawless ÿc9O",
     "zhTW": "無瑕黃寶石",
     "deDE": "makelloser Topas",
     "esES": "Topacio sin defectos",
@@ -5272,7 +5272,7 @@
   {
     "id": 2245,
     "Key": "gpy",
-    "enUS": "Perfect Topaz",
+    "enUS": "Perfect ÿc9O",
     "zhTW": "完美黃寶石",
     "deDE": "perfekter Topas",
     "esES": "Topacio perfecto",
@@ -5289,7 +5289,7 @@
   {
     "id": 2246,
     "Key": "gcb",
-    "enUS": "Chipped Sapphire",
+    "enUS": "Chipped ÿc3O",
     "zhTW": "碎裂藍寶石",
     "deDE": "lädierter Saphir",
     "esES": "Zafiro fragmentado",
@@ -5306,7 +5306,7 @@
   {
     "id": 2247,
     "Key": "gfb",
-    "enUS": "Flawed Sapphire",
+    "enUS": "Flawed ÿc3O",
     "zhTW": "瑕疵藍寶石",
     "deDE": "fehlerhafter Saphir",
     "esES": "Zafiro estropeado",
@@ -5323,7 +5323,7 @@
   {
     "id": 2249,
     "Key": "glb",
-    "enUS": "Flawless Sapphire",
+    "enUS": "Flawless ÿc3O",
     "zhTW": "無瑕藍寶石",
     "deDE": "makelloser Saphir",
     "esES": "Zafiro sin defectos",
@@ -5340,7 +5340,7 @@
   {
     "id": 2250,
     "Key": "gpb",
-    "enUS": "Perfect Sapphire",
+    "enUS": "Perfect ÿc3O",
     "zhTW": "完美藍寶石",
     "deDE": "perfekter Saphir",
     "esES": "Zafiro perfecto",
@@ -5357,7 +5357,7 @@
   {
     "id": 2251,
     "Key": "gcg",
-    "enUS": "Chipped Emerald",
+    "enUS": "Chipped ÿc2O",
     "zhTW": "碎裂綠寶石",
     "deDE": "lädierter Smaragd",
     "esES": "Esmeralda fragmentada",
@@ -5374,7 +5374,7 @@
   {
     "id": 2252,
     "Key": "gfg",
-    "enUS": "Flawed Emerald",
+    "enUS": "Flawed ÿc2O",
     "zhTW": "瑕疵綠寶石",
     "deDE": "fehlerhafter Smaragd",
     "esES": "Esmeralda estropeada",
@@ -5391,7 +5391,7 @@
   {
     "id": 2253,
     "Key": "glg",
-    "enUS": "Flawless Emerald",
+    "enUS": "Flawless ÿc2O",
     "zhTW": "無瑕綠寶石",
     "deDE": "makelloser Smaragd",
     "esES": "Esmeralda sin defectos",
@@ -5408,7 +5408,7 @@
   {
     "id": 2255,
     "Key": "gpg",
-    "enUS": "Perfect Emerald",
+    "enUS": "Perfect ÿc2O",
     "zhTW": "完美綠寶石",
     "deDE": "perfekter Smaragd",
     "esES": "Esmeralda perfecta",
@@ -5425,7 +5425,7 @@
   {
     "id": 2256,
     "Key": "gcr",
-    "enUS": "Chipped Ruby",
+    "enUS": "Chipped ÿc1O",
     "zhTW": "碎裂紅寶石",
     "deDE": "lädierter Rubin",
     "esES": "Rubí fragmentado",
@@ -5442,7 +5442,7 @@
   {
     "id": 2257,
     "Key": "gfr",
-    "enUS": "Flawed Ruby",
+    "enUS": "Flawed ÿc1O",
     "zhTW": "瑕疵紅寶石",
     "deDE": "fehlerhafter Rubin",
     "esES": "Rubí estropeado",
@@ -5459,7 +5459,7 @@
   {
     "id": 2259,
     "Key": "glr",
-    "enUS": "Flawless Ruby",
+    "enUS": "Flawless ÿc1O",
     "zhTW": "無瑕紅寶石",
     "deDE": "makelloser Rubin",
     "esES": "Rubí sin defectos",
@@ -5476,7 +5476,7 @@
   {
     "id": 2260,
     "Key": "gpr",
-    "enUS": "Perfect Ruby",
+    "enUS": "Perfect ÿc1O",
     "zhTW": "完美紅寶石",
     "deDE": "perfekter Rubin",
     "esES": "Rubí perfecto",
@@ -5493,7 +5493,7 @@
   {
     "id": 2261,
     "Key": "gcw",
-    "enUS": "Chipped Diamond",
+    "enUS": "Chipped O",
     "zhTW": "碎裂鑽石",
     "deDE": "lädierter Diamant",
     "esES": "Diamante fragmentado",
@@ -5510,7 +5510,7 @@
   {
     "id": 2262,
     "Key": "gfw",
-    "enUS": "Flawed Diamond",
+    "enUS": "Flawed O",
     "zhTW": "瑕疵鑽石",
     "deDE": "fehlerhafter Diamant",
     "esES": "Diamante estropeado",
@@ -5527,7 +5527,7 @@
   {
     "id": 2264,
     "Key": "glw",
-    "enUS": "Flawless Diamond",
+    "enUS": "Flawless O",
     "zhTW": "無瑕鑽石",
     "deDE": "makelloser Diamant",
     "esES": "Diamante sin defectos",
@@ -5544,7 +5544,7 @@
   {
     "id": 2265,
     "Key": "gpw",
-    "enUS": "Perfect Diamond",
+    "enUS": "Perfect O",
     "zhTW": "完美鑽石",
     "deDE": "perfekter Diamant",
     "esES": "Diamante perfecto",
@@ -5731,7 +5731,7 @@
   {
     "id": 2277,
     "Key": "skc",
-    "enUS": "Chipped Skull",
+    "enUS": "Chipped ÿc5O",
     "zhTW": "碎裂骷髏石",
     "deDE": "lädierter Schädel",
     "esES": "Cráneo fragmentado",
@@ -5748,7 +5748,7 @@
   {
     "id": 2278,
     "Key": "skf",
-    "enUS": "Flawed Skull",
+    "enUS": "Flawed ÿc5O",
     "zhTW": "瑕疵骷髏石",
     "deDE": "fehlerhafter Schädel",
     "esES": "Cráneo estropeado",
@@ -5765,7 +5765,7 @@
   {
     "id": 2279,
     "Key": "sku",
-    "enUS": "Skull",
+    "enUS": "Gem ÿc5O",
     "zhTW": "骷髏石",
     "deDE": "Schädel",
     "esES": "Cráneo",
@@ -5782,7 +5782,7 @@
   {
     "id": 2280,
     "Key": "skl",
-    "enUS": "Flawless Skull",
+    "enUS": "Flawless ÿc5O",
     "zhTW": "無瑕骷髏石",
     "deDE": "makelloser Schädel",
     "esES": "Cráneo sin defectos",
@@ -5799,7 +5799,7 @@
   {
     "id": 2281,
     "Key": "skz",
-    "enUS": "Perfect Skull",
+    "enUS": "Perfect ÿc5O",
     "zhTW": "完美骷髏石",
     "deDE": "perfekter Schädel",
     "esES": "Cráneo perfecto",
